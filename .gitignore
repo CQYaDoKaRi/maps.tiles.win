@@ -1,0 +1,7 @@
+﻿/.vs
+/App.GetTile/bin
+/App.GetTile/obj
+/Dll.Tile/obj
+
+# bin
+!/Web/Bin/GeoLib.dll
